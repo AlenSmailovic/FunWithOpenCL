@@ -1,0 +1,20 @@
+---GPU---
+Processing time for 1000 elements is: 0.015 seconds
+Processing time for 10000 elements is: 0.015 seconds
+Processing time for 100000 elements is: 0.017 seconds
+Processing time for 1000000 elements is: 0.02 seconds
+Processing time for 10000000 elements is: 0.057 seconds
+Processing time for 100000000 elements is: 0.388 seconds
+Processing time for 1000000000 elements is: 0.013 seconds
+Release:
+Processing time for 1000000000 elements is: 12 miliseconds
+---CPU---
+Processing time for 1000 elements is: 0.01 seconds
+Processing time for 10000 elements is: 0.011 seconds
+Processing time for 100000 elements is: 0.011 seconds
+Processing time for 1000000 elements is: 0.015 seconds
+Processing time for 10000000 elements is: 0.013 seconds
+Processing time for 100000000 elements is: 0.02 seconds
+Processing time for 1000000000 elements is: 0.012 seconds
+Release:
+Processing time for 1000000000 elements is: 13 miliseconds
